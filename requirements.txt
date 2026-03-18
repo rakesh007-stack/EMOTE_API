@@ -1,0 +1,11 @@
+flask
+requests
+psutil
+pyjwt
+protobuf==4.25.3
+urllib3
+pytz
+aiohttp
+pycryptodome
+cfonts
+google-api-python-client
